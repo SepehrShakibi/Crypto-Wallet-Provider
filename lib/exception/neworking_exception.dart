@@ -1,0 +1,1 @@
+class GenericNetworkingException implements Exception {}
